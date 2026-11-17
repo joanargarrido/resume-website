@@ -1,0 +1,3 @@
+# Minimal Supabase CLI config. Run `supabase init` to regenerate a full one if needed.
+[auth]
+enable_signup = false
